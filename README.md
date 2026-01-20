@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mikhail Esemchik 👋
 
-<!--
-**mikhailesemchik-ui/mikhailesemchik-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (Python + TypeScript) focused on **LLM/RAG** and research/knowledge tools. UX background (junior/student).
 
-Here are some ideas to get you started:
+✅ Open to opportunities + freelance (Upwork)
+📫 [mikhailesemchik@gmail.com](mailto:mikhailesemchik@gmail.com)
+🗣️ English (B1–B2) · Russian (native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+* **AI Business Knowledge Assistant** — RAG for internal docs: upload files + Q&A with citations
+  [https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant](https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant)
+
+* **Self-Initiated Research Agent** — search papers → rank → cluster → synthesize/export
+  [https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent](https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent)
+
+## Core stack
+
+Python, FastAPI, TypeScript, React, Docker, GitHub Actions, pytest, Playwright
