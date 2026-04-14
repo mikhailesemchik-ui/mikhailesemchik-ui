@@ -1,19 +1,18 @@
-# Hi, I'm Mikhail Esemchik 👋
+Hi, I'm Mikhail Esemchik 👋
 
-Full-stack developer (Python + TypeScript) focused on **LLM/RAG** and research/knowledge tools. UX background (junior/student).
+Junior QA Engineer focused on manual testing and API testing.
 
-✅ Open to opportunities + freelance (Upwork)
-📫 [mikhailesemchik@gmail.com](mailto:mikhailesemchik@gmail.com)
-🗣️ English (B1–B2) · Russian (native)
+I have hands-on experience in testing web applications, including test case design, bug reporting, and API validation using Postman.
 
-## Featured projects
+🔍 What I focus on:
+- Manual Testing (functional, regression, edge cases)
+- API Testing (Postman)
+- Test Documentation (Test Cases, Bug Reports, RTM)
+- Web application testing (HR systems, e-commerce)
 
-* **AI Business Knowledge Assistant** — RAG for internal docs: upload files + Q&A with citations
-  [https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant](https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant)
+🧪 QA Projects:
+- Test documentation and bug reports for web applications
+- API testing collections (Postman)
+- End-to-end testing scenarios
 
-* **Self-Initiated Research Agent** — search papers → rank → cluster → synthesize/export
-  [https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent](https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent)
-
-## Core stack
-
-Python, FastAPI, TypeScript, React, Docker, GitHub Actions, pytest, Playwright
+📫 Open to Junior QA / Software Tester opportunities
