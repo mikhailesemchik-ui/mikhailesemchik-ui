@@ -1,18 +1,39 @@
-Hi, I'm Mikhail Esemchik 👋
+# Mikhail Esemchlk
 
-Junior QA Engineer focused on manual testing and API testing.
+Freelance Python Developer from Riga, Latvia
 
-I have hands-on experience in testing web applications, including test case design, bug reporting, and API validation using Postman.
+## What I Build
 
-🔍 What I focus on:
-- Manual Testing (functional, regression, edge cases)
-- API Testing (Postman)
-- Test Documentation (Test Cases, Bug Reports, RTM)
-- Web application testing (HR systems, e-commerce)
+**AI & Automation**
+- RAG systems with LangChain and vector databases
+- AI chatbots and agents for business workflows
+- Web scraping and data extraction tools
 
-🧪 QA Projects:
-- Test documentation and bug reports for web applications
-- API testing collections (Postman)
-- End-to-end testing scenarios
+**Backend Systems**
+- REST APIs with FastAPI
+- Database design and optimization
+- Docker deployment pipelines
 
-📫 Open to Junior QA / Software Tester opportunities
+**Quality Assurance**
+- Manual testing and test case design
+- Bug reporting and issue tracking
+
+## Stack
+
+Python • FastAPI • LangChain • PostgreSQL • Docker • Git • Qdrant • OpenAI • Claude
+
+## Portfolio
+
+- [Research Agent](link) - Self-initiated agent with RAG for research workflows
+- [Business Knowledge Assistant](link) - AI assistant with custom knowledge base
+- [QA Testing Projects](link) - SauceDemo (67 test cases), OrangeHRM (115 test cases)
+
+## Contact
+
+🌐 [Fiverr](https://www.fiverr.com/s/LdrlBr4) • [Upwork](https://www.upwork.com/freelancers/~01d624cfdd6712d775?mp_source=share)  
+📧 mikhailesemchik@gmail.com
+📍 Riga, Latvia
+
+---
+
+*Currently accepting freelance projects*
