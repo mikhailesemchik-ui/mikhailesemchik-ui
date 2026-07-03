@@ -2,49 +2,49 @@
 
 Junior Software Developer based in Riga, Latvia.
 
-I build mobile and web applications using **Flutter**, **Python**, and modern AI technologies. My projects include cross-platform mobile apps, RAG-based assistants, research tools, REST APIs, and cloud-backed applications.
+I build cross-platform mobile applications, Python backends, and AI-powered tools using Flutter, FastAPI, RAG, and modern cloud services.
 
 ## Featured Projects
 
 ### [Smart Habit Coach](https://github.com/mikhailesemchik-ui/smart-habit-coach)
 
-An AI-powered habit tracking application that helps users build consistent routines and receive personalized coaching insights.
+AI-powered habit tracking app with adaptive coaching, personalized insights, and progress analysis.
 
-**Built with:** Flutter, Dart, Supabase, PostgreSQL, OpenAI
+**Tech:** Flutter, Dart, Supabase, PostgreSQL, OpenAI
 
 ---
 
 ### [WatchRank](https://github.com/mikhailesemchik-ui/watchrank)
 
-A cross-platform movie and TV tracking application where users can discover titles, manage their watch history, rate content, write reviews, follow other users, and receive real-time notifications.
+Cross-platform movie and TV tracking app with ratings, reviews, social features, watch progress, and real-time synchronization.
 
-**Built with:** Flutter, Dart, Riverpod, Firebase, Cloud Firestore, TMDB API, Hive
+**Tech:** Flutter, Dart, Riverpod, Firebase, Cloud Firestore, TMDB API, Hive
 
 ---
 
 ### [AI Business Knowledge Assistant](https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant)
 
-A full-stack RAG application for searching and querying internal business documents. Users can upload documents and receive AI-generated answers with source citations.
+Full-stack RAG application for searching business documents and generating AI-powered answers with source citations.
 
-**Built with:** Python, FastAPI, LangChain, OpenAI, ChromaDB, React, TypeScript, Docker
+**Tech:** Python, FastAPI, LangChain, OpenAI, ChromaDB, React, TypeScript, Docker
 
 ---
 
-### [Research Agent](https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent)
+### [Self-Initiated Research Agent](https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent)
 
-A research discovery platform that collects academic papers from multiple sources, ranks them by configurable criteria, groups them into topic clusters, and identifies potential research gaps.
+Research platform for discovering, ranking, clustering, and analyzing academic papers from multiple sources.
 
-**Built with:** Python, FastAPI, SentenceTransformers, scikit-learn, ChromaDB, HTMX, Docker
+**Tech:** Python, FastAPI, SentenceTransformers, scikit-learn, ChromaDB, HTMX, Docker
 
 ## Tech Stack
 
-### Mobile Development
+### Mobile
 
 `Flutter` `Dart` `Riverpod` `Firebase` `Supabase`
 
 ### Backend & AI
 
-`Python` `FastAPI` `LangChain` `OpenAI API` `ChromaDB` `PostgreSQL`
+`Python` `FastAPI` `LangChain` `OpenAI API` `RAG` `ChromaDB` `PostgreSQL`
 
 ### Frontend
 
@@ -54,18 +54,18 @@ A research discovery platform that collects academic papers from multiple source
 
 `Pytest` `Playwright` `Postman` `Docker` `Git` `GitHub Actions`
 
-## What I'm Currently Working On
+## Currently Focused On
 
-* Developing production-style mobile applications with Flutter
-* Building AI-powered features and RAG systems
-* Improving backend architecture and automated testing
-* Learning modern software engineering and deployment practices
+- Developing cross-platform mobile applications with Flutter
+- Building AI-powered features and RAG systems
+- Improving backend architecture and automated testing
+- Learning production deployment and software engineering practices
 
 ## Contact
 
-* **Email:** [mikhailesemchik@gmail.com](mailto:mikhailesemchik@gmail.com)
-* **Location:** Riga, Latvia
+- **Email:** [mikhailesemchik@gmail.com](mailto:mikhailesemchik@gmail.com)
+- **Location:** Riga, Latvia
 
 ---
 
-Open to junior software development opportunities and interesting projects.
+Open to junior software development opportunities in Flutter, Python, and AI-powered products.
