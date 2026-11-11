@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="326" viewBox="0 0 1200 326" role="img" aria-label="Mikhail Esemchik — Mobile Developer, Flutter and Dart">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F9FE"/><stop offset="1" stop-color="#E7F2F7"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#147F86"/><stop offset="1" stop-color="#3568B5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r="1.1" fill="#B6C8D8" opacity=".34"/></pattern>
+  <clipPath id="round"><rect width="1200" height="326" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="326" fill="url(#bg)"/>
+<rect x="740" y="0" width="460" height="326" fill="url(#dots)" />
+<path d="M740 0 C 860 110, 980 40, 1200 175" fill="none" stroke="#B9D0DD" stroke-width="1.4" opacity=".65" />
+<path d="M720 310 C 860 185, 1010 290, 1200 120" fill="none" stroke="#B9D0DD" stroke-width="1.4" opacity=".48" />
+<path d="M54 62 H 101" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+<text x="119" y="69" font-size="15" font-family="Arial, sans-serif" fill="#50677B" letter-spacing="3.2" font-weight="700">HELLO, I'M</text>
+<text x="56" y="156" font-family="Arial, Helvetica, sans-serif" font-weight="750" font-size="66" letter-spacing="-2" fill="#15283C">Mikhail Esemchik</text>
+<rect x="55" y="184" width="503" height="1.6" rx="1" fill="#B9D0DD" opacity=".83"/>
+<text x="56" y="222" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="23" fill="#50677B">Mobile Developer</text>
+<circle cx="280" cy="214" r="3.2" fill="#147F86" />
+<text x="296" y="222" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#50677B">Flutter &amp; Dart</text>
+<text x="56" y="282" font-family="'Courier New', monospace" font-size="16.5" fill="#147F86" letter-spacing="1.1">BUILD  /  EXPLORE  /  REFINE</text>
+<!-- Abstract mobile UI motif -->
+<g transform="translate(883 36) rotate(10 118 124)">
+ <rect x="60" y="1" width="216" height="277" rx="30" fill="#FBFDFF" stroke="#B9D0DD" stroke-width="2"/>
+ <rect x="76" y="23" width="184" height="230" rx="16" fill="#F5F9FE" opacity=".79"/>
+ <rect x="142" y="11" width="48" height="5" rx="2.5" fill="#B9D0DD"/>
+ <rect x="93" y="52" width="102" height="10" rx="5" fill="#147F86" opacity=".96"/>
+ <rect x="93" y="75" width="145" height="6" rx="3" fill="#B9D0DD" opacity=".9"/>
+ <rect x="93" y="92" width="118" height="6" rx="3" fill="#B9D0DD" opacity=".65"/>
+ <rect x="93" y="122" width="145" height="45" rx="9" fill="#FBFDFF" stroke="#B9D0DD" opacity=".95"/>
+ <circle cx="112" cy="145" r="9" fill="none" stroke="#147F86" stroke-width="3"/>
+ <path d="M 108 145 L 111 148 L 117 140" stroke="#147F86" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <rect x="132" y="137" width="87" height="6" rx="3" fill="#50677B" opacity=".65"/>
+ <rect x="132" y="150" width="60" height="5" rx="2.5" fill="#B9D0DD"/>
+ <rect x="93" y="178" width="145" height="45" rx="9" fill="#FBFDFF" stroke="#B9D0DD" opacity=".95"/>
+ <circle cx="112" cy="202" r="9" fill="none" stroke="#3568B5" stroke-width="3"/>
+ <rect x="132" y="194" width="80" height="6" rx="3" fill="#50677B" opacity=".6"/>
+ <rect x="132" y="207" width="93" height="5" rx="2.5" fill="#B9D0DD"/>
+ <rect x="151" y="261" width="35" height="4" rx="2" fill="#B9D0DD"/>
+</g>
+<circle cx="1144" cy="79" r="5.5" fill="#147F86"/>
+<circle cx="805" cy="250" r="3.5" fill="#3568B5"/>
+</g>
+</svg>
