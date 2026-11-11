@@ -1,71 +1,42 @@
-# Hi, I'm Mikhail Esemchik 👋
+<!-- A quiet, evergreen profile: no counters, auto-generated stats, or project duplication. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" alt="Mikhail Esemchik — Mobile Developer, Flutter & Dart" width="100%" />
+</picture>
 
-Junior Software Developer based in Riga, Latvia.
+### A little about me
 
-I build cross-platform mobile applications, Python backends, and AI-powered tools using Flutter, FastAPI, RAG, and modern cloud services.
+I'm a developer who learns best by building. I like taking an idea from *"what if?"* to a working app, getting into the details along the way, and figuring out how to make the next iteration better than the last.
 
-## Featured Projects
+**Mobile is my home base, not my boundary.** Backend systems, AI, and automation are the areas I keep coming back to.
 
-### [Smart Habit Coach](https://github.com/mikhailesemchik-ui/smart-habit-coach)
+### My toolkit
 
-AI-powered habit tracking app with adaptive coaching, personalized insights, and progress analysis.
+| | Technologies |
+| :--- | :--- |
+| **Mobile** | `Flutter` `Dart` `Riverpod` `go_router` `Android` |
+| **Backend & data** | `Supabase` `Firebase` `PostgreSQL` `REST APIs` `Hive` |
+| **Quality & workflow** | `Git` `GitHub Actions` `Unit Testing` `Widget Testing` |
+| **Beyond mobile** | `Python` `FastAPI` `OpenAI API` `RAG` |
 
-**Tech:** Flutter, Dart, Supabase, PostgreSQL, OpenAI
+### What keeps me curious
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 / BUILD</strong><br/><br/>
+      Practical mobile apps with thoughtful interactions.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 / EXPLORE</strong><br/><br/>
+      Backend systems, AI tools, and new ideas.
+    </td>
+    <td width="34%" valign="top">
+      <strong>03 / REFINE</strong><br/><br/>
+      Architecture, testing, and smoother workflows.
+    </td>
+  </tr>
+</table>
 
-### [WatchRank](https://github.com/mikhailesemchik-ui/watchrank)
-
-Cross-platform movie and TV tracking app with ratings, reviews, social features, watch progress, and real-time synchronization.
-
-**Tech:** Flutter, Dart, Riverpod, Firebase, Cloud Firestore, TMDB API, Hive
-
----
-
-### [AI Business Knowledge Assistant](https://github.com/mikhailesemchik-ui/ai-business-knowledge-assistant)
-
-Full-stack RAG application for searching business documents and generating AI-powered answers with source citations.
-
-**Tech:** Python, FastAPI, LangChain, OpenAI, ChromaDB, React, TypeScript, Docker
-
----
-
-### [Self-Initiated Research Agent](https://github.com/mikhailesemchik-ui/Self-Initiated-Research-Agent)
-
-Research platform for discovering, ranking, clustering, and analyzing academic papers from multiple sources.
-
-**Tech:** Python, FastAPI, SentenceTransformers, scikit-learn, ChromaDB, HTMX, Docker
-
-## Tech Stack
-
-### Mobile
-
-`Flutter` `Dart` `Riverpod` `Firebase` `Supabase`
-
-### Backend & AI
-
-`Python` `FastAPI` `LangChain` `OpenAI API` `RAG` `ChromaDB` `PostgreSQL`
-
-### Frontend
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `HTMX`
-
-### Testing & Tools
-
-`Pytest` `Playwright` `Postman` `Docker` `Git` `GitHub Actions`
-
-## Currently Focused On
-
-- Developing cross-platform mobile applications with Flutter
-- Building AI-powered features and RAG systems
-- Improving backend architecture and automated testing
-- Learning production deployment and software engineering practices
-
-## Contact
-
-- **Email:** [mikhailesemchik@gmail.com](mailto:mikhailesemchik@gmail.com)
-- **Location:** Riga, Latvia
-
----
-
-Open to junior software development opportunities in Flutter, Python, and AI-powered products.
+<p align="center"><sub>↓ A closer look at what I build is in my pinned repositories.</sub></p>
